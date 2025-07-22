@@ -1,0 +1,967 @@
+"/Volumes/Data (Samsung PSSD T7 - 2 TB of Ethan)/Study/KCL/MSc Individual Project/References/Audio-Visual-Figure-Skating-main/.venv/bin/python" /Volumes/Data (Samsung PSSD T7 - 2 TB of Ethan)/Study/KCL/MSc Individual Project/References/Audio-Visual-Figure-Skating-main/main.py
+Model output: Sequential(
+  (0): Linear(in_features=1536, out_features=768, bias=True)
+  (1): ReLU()
+  (2): Dropout(p=0.5, inplace=False)
+  (3): Linear(in_features=768, out_features=1, bias=True)
+), fusion: Linear(in_features=1536, out_features=768, bias=True)
+=========================
+noise_std: 0
+epoch  0
+train_loss: 40.7463
+val_pred sample: [28.487396 28.487415 28.486567 28.47522  28.487051 28.485157 28.48729
+ 28.485756 28.487297 28.485825]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  16.934922409057616  | spear corr:  -0.05655726958251249
+no_improve_epochs: 0
+min validation loss:  16.934922409057616  | max spear corr:  -0.05655726958251249
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  1
+train_loss: 15.4881
+val_pred sample: [43.43732  43.42927  43.43384  43.447628 43.4295   43.427982 43.43085
+ 43.42565  43.431435 43.42574 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  13.058255290985107  | spear corr:  0.35341162786647473
+no_improve_epochs: 0
+min validation loss:  13.058255290985107  | max spear corr:  0.35341162786647473
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  2
+train_loss: 14.6620
+val_pred sample: [44.19227  44.178238 44.18365  44.21504  44.17723  44.172215 44.179714
+ 44.170685 44.182514 44.16957 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  13.20287628173828  | spear corr:  0.4041190206233699
+no_improve_epochs: 0
+min validation loss:  13.058255290985107  | max spear corr:  0.4041190206233699
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  3
+train_loss: 14.7341
+val_pred sample: [44.89076  44.863285 44.87099  44.93467  44.859623 44.842278 44.86411
+ 44.84265  44.86894  44.84015 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  13.33812837600708  | spear corr:  0.44409221585406783
+no_improve_epochs: 0
+min validation loss:  13.058255290985107  | max spear corr:  0.44409221585406783
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  4
+train_loss: 14.6163
+val_pred sample: [43.696674 43.345715 43.36356  44.12572  43.290024 43.047695 43.346367
+ 43.180656 43.33191  43.09213 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  12.975177478790282  | spear corr:  0.4567161096257428
+no_improve_epochs: 0
+min validation loss:  12.975177478790282  | max spear corr:  0.4567161096257428
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  5
+train_loss: 14.6289
+val_pred sample: [43.36916  43.04862  43.197464 43.634556 42.96231  43.368458 42.939163
+ 42.893017 42.943886 43.037018]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  12.928013896942138  | spear corr:  0.41919112385353424
+no_improve_epochs: 1
+min validation loss:  12.928013896942138  | max spear corr:  0.4567161096257428
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  6
+train_loss: 14.5591
+val_pred sample: [43.577183 42.597572 42.59725  43.736744 42.274277 42.93617  42.262978
+ 42.265537 42.292168 42.594185]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  12.733269500732423  | spear corr:  0.29104423498012433
+no_improve_epochs: 2
+min validation loss:  12.733269500732423  | max spear corr:  0.4567161096257428
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  7
+train_loss: 14.5426
+val_pred sample: [46.932476 42.769436 41.16     47.122845 38.350903 46.83168  38.17353
+ 38.36724  37.80704  41.20834 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  11.846632480621338  | spear corr:  0.3610329625425389
+no_improve_epochs: 3
+min validation loss:  11.846632480621338  | max spear corr:  0.4567161096257428
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  8
+train_loss: 13.9392
+val_pred sample: [50.985863 45.761387 46.59245  50.72737  37.64347  49.40666  39.740078
+ 38.2535   35.798172 40.891735]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  11.187994527816773  | spear corr:  0.4613027246496648
+no_improve_epochs: 0
+min validation loss:  11.187994527816773  | max spear corr:  0.4613027246496648
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  9
+train_loss: 12.9757
+val_pred sample: [58.816357 53.201862 45.139763 54.205116 41.72233  48.77813  43.56102
+ 43.114723 37.87459  39.423103]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.924160957336426  | spear corr:  0.575748364618973
+no_improve_epochs: 0
+min validation loss:  10.924160957336426  | max spear corr:  0.575748364618973
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  10
+train_loss: 11.5402
+val_pred sample: [64.644005 58.82897  39.94247  59.47779  40.000175 47.499405 35.91715
+ 35.14176  32.803753 36.081337]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.823018121719361  | spear corr:  0.5884783820440391
+no_improve_epochs: 0
+min validation loss:  9.823018121719361  | max spear corr:  0.5884783820440391
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  11
+train_loss: 11.2770
+val_pred sample: [66.33887  60.22589  38.554176 60.596924 36.626762 45.23507  34.92859
+ 34.205975 31.447002 34.4644  ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.950080585479736  | spear corr:  0.5825953268105448
+no_improve_epochs: 1
+min validation loss:  9.823018121719361  | max spear corr:  0.5884783820440391
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  12
+train_loss: 11.3467
+val_pred sample: [66.029884 62.355667 46.10475  62.22596  40.193985 46.531044 42.095444
+ 40.10479  36.100807 36.5915  ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.512162685394287  | spear corr:  0.5333642916432035
+no_improve_epochs: 2
+min validation loss:  9.823018121719361  | max spear corr:  0.5884783820440391
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  13
+train_loss: 11.4977
+val_pred sample: [64.31358  61.489292 38.383125 60.77919  38.769165 44.181137 35.173527
+ 34.239746 31.782227 34.19137 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.716115570068359  | spear corr:  0.6090632157445027
+no_improve_epochs: 0
+min validation loss:  9.716115570068359  | max spear corr:  0.6090632157445027
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  14
+train_loss: 11.5181
+val_pred sample: [63.298763 61.204716 40.085697 61.0902   36.85645  44.861614 37.69357
+ 36.679592 31.755404 33.40179 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.723788690567016  | spear corr:  0.592174335319464
+no_improve_epochs: 1
+min validation loss:  9.716115570068359  | max spear corr:  0.6090632157445027
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  15
+train_loss: 11.2873
+val_pred sample: [64.25745  64.69038  45.61967  63.925217 41.410587 51.95161  43.16763
+ 41.14813  36.129025 37.142612]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.26579761505127  | spear corr:  0.6084860434930095
+no_improve_epochs: 2
+min validation loss:  9.716115570068359  | max spear corr:  0.6090632157445027
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  16
+train_loss: 11.4338
+val_pred sample: [63.172832 62.035877 40.958675 61.314316 38.370346 43.088852 38.13276
+ 36.05807  32.44197  33.978237]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.611315870285035  | spear corr:  0.6012875042954519
+no_improve_epochs: 3
+min validation loss:  9.611315870285035  | max spear corr:  0.6090632157445027
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  17
+train_loss: 11.4181
+val_pred sample: [64.13475  62.754368 39.2856   63.072243 37.778145 40.862045 36.20512
+ 34.163074 33.13228  34.683254]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.692602729797363  | spear corr:  0.6122947943911881
+no_improve_epochs: 0
+min validation loss:  9.611315870285035  | max spear corr:  0.6122947943911881
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  18
+train_loss: 11.1881
+val_pred sample: [57.026817 64.02565  40.09552  63.99414  40.740883 42.482872 36.92103
+ 36.940483 35.28255  35.15828 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.860908317565919  | spear corr:  0.5555297569664113
+no_improve_epochs: 1
+min validation loss:  9.611315870285035  | max spear corr:  0.6122947943911881
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  19
+train_loss: 10.7943
+val_pred sample: [67.07713  64.00939  42.945976 63.65881  37.987244 43.571125 38.9956
+ 33.697315 34.236313 33.797665]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.445998525619506  | spear corr:  0.6305548251395712
+no_improve_epochs: 0
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  20
+train_loss: 11.2262
+val_pred sample: [55.46119  60.665134 39.099854 60.05496  37.00769  38.32871  38.523594
+ 37.826935 32.768513 32.48914 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.734502744674682  | spear corr:  0.6062037227624856
+no_improve_epochs: 1
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  21
+train_loss: 11.3206
+val_pred sample: [63.313095 64.45757  63.62285  62.632687 43.882465 49.42162  63.24831
+ 62.71393  38.80215  37.82741 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  11.786862182617188  | spear corr:  0.571743316559119
+no_improve_epochs: 2
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  22
+train_loss: 12.8487
+val_pred sample: [49.22171  63.277264 48.908714 62.933083 41.03844  48.319412 48.700188
+ 48.332836 36.466457 36.034695]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.978006172180176  | spear corr:  0.6160303000797863
+no_improve_epochs: 3
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  23
+train_loss: 12.0428
+val_pred sample: [41.044933 62.26671  40.473827 61.939598 37.71715  40.081455 40.344463
+ 39.93078  33.055073 32.552834]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.525874376296997  | spear corr:  0.5818819184692321
+no_improve_epochs: 4
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  24
+train_loss: 12.3835
+val_pred sample: [43.56958  63.563133 42.555107 63.203728 38.63147  42.636986 42.65513
+ 42.39226  34.236504 33.727493]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.57113094329834  | spear corr:  0.5375187599306014
+no_improve_epochs: 5
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  25
+train_loss: 11.8370
+val_pred sample: [43.37795  65.62921  42.242382 65.29353  38.816334 42.186153 42.415997
+ 41.952694 34.41672  33.88969 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.58938980102539  | spear corr:  0.5282341971641953
+no_improve_epochs: 6
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  26
+train_loss: 12.1705
+val_pred sample: [47.043125 63.314438 45.369473 62.926105 37.96376  45.834    45.775307
+ 45.428043 34.169617 33.64637 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.67129955291748  | spear corr:  0.5175872734995945
+no_improve_epochs: 7
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  27
+train_loss: 11.8388
+val_pred sample: [42.378124 64.59469  39.600376 64.11338  38.83532  40.70343  40.43302
+ 40.215477 35.0917   34.3721  ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.594130420684815  | spear corr:  0.5033366855236402
+no_improve_epochs: 8
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  28
+train_loss: 12.4002
+val_pred sample: [43.21337  61.172867 38.775486 60.388306 36.923294 40.748074 40.38462
+ 40.0668   33.693855 32.583363]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.474340152740478  | spear corr:  0.5076171355715163
+no_improve_epochs: 9
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  29
+train_loss: 11.6550
+val_pred sample: [42.545544 62.91004  36.675034 62.133842 36.76416  39.615387 38.378914
+ 38.6137   33.87088  32.59366 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.539181137084961  | spear corr:  0.47768621312859916
+no_improve_epochs: 10
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+0.0001
+=========================
+noise_std: 0
+epoch  30
+train_loss: 11.7308
+val_pred sample: [54.006786 66.286064 48.569153 65.9948   41.14745  51.087376 50.022724
+ 50.247093 37.629395 36.449482]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  11.429177951812743  | spear corr:  0.5114639739786766
+no_improve_epochs: 11
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  31
+train_loss: 11.6640
+val_pred sample: [46.280384 63.12535  40.190315 62.81111  36.99305  42.65957  41.867973
+ 41.78154  34.354553 32.8134  ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.433910274505616  | spear corr:  0.5117672091463393
+no_improve_epochs: 12
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  32
+train_loss: 11.6919
+val_pred sample: [51.17331  65.14094  42.50439  64.86828  38.5116   46.845005 45.372166
+ 44.924793 36.363934 34.026997]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.67167682647705  | spear corr:  0.5112706066253846
+no_improve_epochs: 13
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  33
+train_loss: 11.6950
+val_pred sample: [44.180992 66.39022  38.240322 65.591446 38.39765  40.801113 39.873455
+ 39.06586  36.336872 34.309906]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.402983140945434  | spear corr:  0.5066166060086487
+no_improve_epochs: 14
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  34
+train_loss: 11.3774
+val_pred sample: [43.96504  63.890675 38.99319  62.96262  36.284863 41.461315 40.5087
+ 39.304546 34.0873   32.25473 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.30664029121399  | spear corr:  0.5298822143797532
+no_improve_epochs: 15
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  35
+train_loss: 11.6069
+val_pred sample: [44.770634 63.461018 38.067215 62.210873 36.060135 40.403996 40.39115
+ 38.41318  34.772114 32.02557 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.224157857894898  | spear corr:  0.5315082580324372
+no_improve_epochs: 16
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  36
+train_loss: 11.3560
+val_pred sample: [42.664333 63.389423 35.751583 61.39886  35.08236  37.1205   37.05566
+ 35.578808 34.95436  31.23499 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.417496824264527  | spear corr:  0.5370587800144366
+no_improve_epochs: 17
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  37
+train_loss: 11.3932
+val_pred sample: [49.501877 65.43274  38.11215  63.504128 36.431374 40.907173 42.133827
+ 38.68534  37.838703 32.08987 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.052164602279664  | spear corr:  0.540350419732978
+no_improve_epochs: 18
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  38
+train_loss: 11.3437
+val_pred sample: [40.400394 63.125317 32.31233  60.630783 32.989452 34.305298 34.58887
+ 32.217724 33.69813  29.375792]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.942460823059083  | spear corr:  0.5024020766493948
+no_improve_epochs: 19
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  39
+train_loss: 11.0910
+val_pred sample: [48.32231  64.998764 35.65263  61.70737  34.636726 37.616013 39.886402
+ 34.337025 37.660217 30.686327]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.08189377784729  | spear corr:  0.5245338491761956
+no_improve_epochs: 20
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  40
+train_loss: 10.7188
+val_pred sample: [50.742825 66.563866 37.277927 61.960598 34.21134  38.080853 41.45232
+ 33.40351  38.477093 30.218473]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.015993738174439  | spear corr:  0.542162506217996
+no_improve_epochs: 21
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+5e-05
+=========================
+noise_std: 0
+epoch  41
+train_loss: 10.4942
+val_pred sample: [50.46346  67.59192  36.42325  62.047432 33.9969   37.862865 39.45843
+ 32.076973 39.84099  30.004791]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.099908351898193  | spear corr:  0.5401043158287879
+no_improve_epochs: 22
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  42
+train_loss: 10.5028
+val_pred sample: [52.19511  67.85767  35.82877  61.385975 33.698483 37.017605 38.358143
+ 31.093374 40.510433 29.61342 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.196722316741944  | spear corr:  0.5308373319126811
+no_improve_epochs: 23
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  43
+train_loss: 10.6114
+val_pred sample: [58.264153 69.3133   45.24693  63.80058  36.033943 46.79006  48.02807
+ 34.79407  42.38124  31.366507]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.06153974533081  | spear corr:  0.5646634346010817
+no_improve_epochs: 24
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  44
+train_loss: 10.5194
+val_pred sample: [56.74861  69.587166 40.355503 62.433296 35.197083 43.399002 40.867386
+ 33.025467 41.633873 30.734259]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.000380563735963  | spear corr:  0.5562607441580231
+no_improve_epochs: 25
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  45
+train_loss: 10.4782
+val_pred sample: [54.597267 68.994965 37.4681   61.021957 33.72153  41.63665  36.729916
+ 30.5531   41.077858 29.426704]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.202592420578004  | spear corr:  0.5325043928827301
+no_improve_epochs: 26
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  46
+train_loss: 10.0025
+val_pred sample: [56.770546 69.538185 42.49062  60.726    34.256874 48.905758 40.823193
+ 31.49425  41.939777 29.654726]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.000856256484985  | spear corr:  0.5510266414814109
+no_improve_epochs: 27
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  47
+train_loss: 10.1453
+val_pred sample: [56.827694 69.10569  45.83102  59.41753  33.30651  49.87331  42.30765
+ 30.143951 41.587578 28.62294 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.069137001037598  | spear corr:  0.5539461955352838
+no_improve_epochs: 28
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  48
+train_loss: 9.8470
+val_pred sample: [58.57062  69.97161  50.59346  60.488853 34.444508 54.24912  47.347694
+ 31.11868  42.243237 29.293543]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.959259462356567  | spear corr:  0.5682963969962674
+no_improve_epochs: 29
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  49
+train_loss: 10.3265
+val_pred sample: [55.919144 70.19935  48.62892  60.074966 33.992172 52.97105  43.27754
+ 30.072859 41.07867  28.645079]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  9.963359212875366  | spear corr:  0.5686421143854867
+no_improve_epochs: 30
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  50
+train_loss: 10.3006
+val_pred sample: [48.20857  68.638535 41.246128 58.172413 32.602287 45.783314 33.766823
+ 27.720839 38.877865 27.548521]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.571001863479614  | spear corr:  0.5145593165355425
+no_improve_epochs: 31
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  51
+train_loss: 10.3930
+val_pred sample: [52.902813 69.218575 47.802776 58.96987  33.77001  52.492504 38.851627
+ 29.288103 40.007324 28.284298]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.020317268371581  | spear corr:  0.5508698967329089
+no_improve_epochs: 32
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+2.5e-05
+=========================
+noise_std: 0
+epoch  52
+train_loss: 9.7038
+val_pred sample: [56.159664 70.50396  48.404766 58.198166 33.443928 54.089733 38.929405
+ 28.585949 41.520832 27.772953]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.109609460830688  | spear corr:  0.5436757522479262
+no_improve_epochs: 33
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  53
+train_loss: 9.6829
+val_pred sample: [60.758507 71.2413   54.370094 59.39871  34.611435 58.21747  48.105488
+ 29.835936 43.429054 28.46411 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.260047817230225  | spear corr:  0.5611798924334399
+no_improve_epochs: 34
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  54
+train_loss: 9.7133
+val_pred sample: [59.49158  71.22449  50.8647   58.15672  33.63716  57.41696  40.10511
+ 28.52871  42.703342 27.642853]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.15920672416687  | spear corr:  0.5447070447988176
+no_improve_epochs: 35
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  55
+train_loss: 9.6844
+val_pred sample: [50.2575   70.76963  41.89219  57.059357 32.60737  52.9656   32.71308
+ 26.812159 39.69307  26.891384]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.631988668441773  | spear corr:  0.515665319200206
+no_improve_epochs: 36
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  56
+train_loss: 9.7435
+val_pred sample: [56.159855 71.523285 46.11241  57.216446 33.147095 55.948868 34.21512
+ 27.104721 41.51456  27.164078]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.313918304443359  | spear corr:  0.5290589382240701
+no_improve_epochs: 37
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  57
+train_loss: 9.3968
+val_pred sample: [50.163326 70.46645  42.78245  56.457745 32.457973 54.05559  32.532234
+ 26.336771 39.633    26.557993]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.648182344436645  | spear corr:  0.5226807453738126
+no_improve_epochs: 38
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  58
+train_loss: 9.4701
+val_pred sample: [59.13556  71.83936  51.496338 57.47957  33.93544  58.52442  37.600204
+ 27.673891 42.394497 27.50311 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.063868641853333  | spear corr:  0.5512229386430862
+no_improve_epochs: 39
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  59
+train_loss: 9.4159
+val_pred sample: [58.706924 71.654106 52.10573  56.98325  33.68511  58.18244  38.83953
+ 27.112165 42.239586 26.918478]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.128195095062257  | spear corr:  0.550179926858662
+no_improve_epochs: 40
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  60
+train_loss: 9.2908
+val_pred sample: [56.48492  71.58202  48.663258 56.756905 33.89313  58.684467 35.35409
+ 27.450342 41.173676 27.121218]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.02073712348938  | spear corr:  0.5438207777628953
+no_improve_epochs: 41
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  61
+train_loss: 9.2582
+val_pred sample: [56.54013  71.49692  49.837143 56.326546 33.25057  57.882168 34.764194
+ 26.508522 41.345608 26.278318]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.174383926391602  | spear corr:  0.5386145082659235
+no_improve_epochs: 42
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  62
+train_loss: 9.4110
+val_pred sample: [58.567642 71.32439  52.325867 55.886787 32.833225 57.737144 35.40836
+ 25.891438 41.91414  25.730745]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.1947585105896  | spear corr:  0.5437768306371471
+no_improve_epochs: 43
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+1.25e-05
+=========================
+noise_std: 0
+epoch  63
+train_loss: 9.0529
+val_pred sample: [60.060604 72.0442   52.964138 56.29498  33.64055  59.24612  36.77519
+ 26.613974 42.46385  26.187714]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.059470701217652  | spear corr:  0.551816224840687
+no_improve_epochs: 44
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  64
+train_loss: 9.4585
+val_pred sample: [60.361347 72.498886 53.249363 56.47421  33.83583  59.843983 35.810474
+ 26.45919  42.812603 26.280464]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.076705074310302  | spear corr:  0.5470362424634729
+no_improve_epochs: 45
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  65
+train_loss: 9.3316
+val_pred sample: [59.255196 72.19013  51.79816  55.748325 33.40184  58.7204   34.24795
+ 25.805079 42.17176  25.764656]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.144929361343383  | spear corr:  0.5377956268228151
+no_improve_epochs: 46
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  66
+train_loss: 9.3412
+val_pred sample: [58.055923 72.27062  51.70774  55.359894 33.17427  58.16363  33.901657
+ 25.507118 41.66493  25.415136]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.188950061798096  | spear corr:  0.5408016102239929
+no_improve_epochs: 47
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  67
+train_loss: 8.8932
+val_pred sample: [58.71494  72.196884 52.088886 55.053303 33.086575 58.865612 33.972286
+ 25.458342 41.659966 25.313608]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.183213138580323  | spear corr:  0.5406800231760895
+no_improve_epochs: 48
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  68
+train_loss: 9.0265
+val_pred sample: [60.611164 72.42065  54.6465   55.60939  33.74381  60.563023 36.89288
+ 26.142092 42.275143 25.79021 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.086059713363648  | spear corr:  0.5570913448346644
+no_improve_epochs: 49
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  69
+train_loss: 9.0384
+val_pred sample: [54.08584  71.195465 49.69136  53.90883  32.399437 57.1709   31.747213
+ 24.563929 40.30775  24.735228]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.403696298599243  | spear corr:  0.5352086060204369
+no_improve_epochs: 50
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  70
+train_loss: 8.8806
+val_pred sample: [54.13306  71.55576  49.60908  54.072468 32.402355 57.39876  31.792826
+ 24.389366 40.497295 24.725454]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.425474071502686  | spear corr:  0.5333555022180538
+no_improve_epochs: 51
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  71
+train_loss: 9.1441
+val_pred sample: [57.831703 72.8025   53.95984  55.11422  33.475185 58.894268 35.19289
+ 25.070938 41.780704 25.262753]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.191038799285888  | spear corr:  0.5445297913916332
+no_improve_epochs: 52
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  72
+train_loss: 9.0752
+val_pred sample: [54.451614 72.28203  51.689156 54.17814  33.05172  57.821144 33.20529
+ 24.62279  40.76293  24.936306]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.261232662200928  | spear corr:  0.5395417926192109
+no_improve_epochs: 53
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  73
+train_loss: 9.2090
+val_pred sample: [53.804585 72.10467  51.925697 53.909824 33.04592  58.017815 33.301807
+ 24.471802 40.72985  24.863186]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.259876680374145  | spear corr:  0.5394773368347802
+no_improve_epochs: 54
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+6.25e-06
+=========================
+noise_std: 0
+epoch  74
+train_loss: 8.9217
+val_pred sample: [52.714996 72.31817  50.63471  53.088726 32.406372 56.768814 31.75121
+ 23.846806 40.307434 24.30744 ]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.484750366210937  | spear corr:  0.5276291917330614
+no_improve_epochs: 55
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+3.125e-06
+=========================
+noise_std: 0
+epoch  75
+train_loss: 8.9151
+val_pred sample: [57.40877  73.016205 54.378223 54.165806 33.386635 58.629436 34.565456
+ 24.605537 41.678337 24.831333]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.182162523269653  | spear corr:  0.5422020586311693
+no_improve_epochs: 56
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+3.125e-06
+=========================
+noise_std: 0
+epoch  76
+train_loss: 8.8674
+val_pred sample: [58.041687 73.17482  54.73647  54.10509  33.44873  58.907658 34.361748
+ 24.577131 41.771633 24.750628]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.192428541183471  | spear corr:  0.5416834825473404
+no_improve_epochs: 57
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+3.125e-06
+=========================
+noise_std: 0
+epoch  77
+train_loss: 8.8387
+val_pred sample: [56.262207 72.73328  53.029823 53.61462  33.09305  58.42344  32.99209
+ 24.318607 40.976383 24.549385]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.218395090103149  | spear corr:  0.5413612036251868
+no_improve_epochs: 58
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+3.125e-06
+=========================
+noise_std: 0
+epoch  78
+train_loss: 8.8977
+val_pred sample: [58.326466 72.90882  54.562912 53.5713   33.204227 59.05118  33.56384
+ 24.38827  41.687763 24.584637]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.19605393409729  | spear corr:  0.5421859446850618
+no_improve_epochs: 59
+min validation loss:  9.445998525619506  | max spear corr:  0.6305548251395712
+checkpoint_pe
+3.125e-06
+=========================
+noise_std: 0
+epoch  79
+train_loss: 9.2107
+val_pred sample: [52.22452  71.92993  50.724213 52.202034 32.127197 56.46109  30.717285
+ 23.42848  40.03643  23.833023]
+val_truth sample: [80.89 61.64 51.29 39.66 36.77 23.56 33.82 23.4  38.51 27.21]
+val_loss:  10.568430471420289  | spear corr:  0.5240299221342828
+no_improve_epochs: 60
+Early stopping: no improvement in 60 epochs.
+
+Process finished with exit code 0

@@ -1,0 +1,1044 @@
+=========================
+epoch  351
+160
+val_loss:  1.6649974763393403  | spear corr:  0.1997687969325034
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  352
+160
+val_loss:  1.6674737632274628  | spear corr:  0.2503512142584091
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  353
+160
+val_loss:  1.6618495225906371  | spear corr:  -0.05146694507931739
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  354
+160
+val_loss:  1.7783064782619475  | spear corr:  0.10357760132807342
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  355
+160
+val_loss:  1.7552209436893462  | spear corr:  0.038393491403419355
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  356
+160
+val_loss:  1.6664761424064636  | spear corr:  0.021355500110619423
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  357
+160
+val_loss:  1.7337843239307404  | spear corr:  0.21911717464859973
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  358
+160
+val_loss:  1.6936456561088562  | spear corr:  0.24711506212574838
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  359
+160
+val_loss:  1.726046085357666  | spear corr:  0.19956522962507176
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  360
+160
+val_loss:  1.6622290432453155  | spear corr:  0.22029288134830854
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  361
+160
+val_loss:  1.6760063350200654  | spear corr:  0.04785771041294694
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  362
+160
+val_loss:  1.6788777887821198  | spear corr:  0.08537115653081508
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  363
+160
+val_loss:  1.6635279059410095  | spear corr:  -0.025048948199958985
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  364
+160
+val_loss:  1.684442049264908  | spear corr:  0.13323187920684298
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  365
+160
+val_loss:  1.6683065354824067  | spear corr:  0.2725536524104118
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  366
+160
+val_loss:  1.6608100533485413  | spear corr:  0.21843520164377067
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  367
+160
+val_loss:  1.6648557543754579  | spear corr:  0.11445997012810634
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  368
+160
+val_loss:  1.6693271279335022  | spear corr:  0.04147904382024565
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  369
+160
+val_loss:  1.6757100582122804  | spear corr:  0.043058915328413765
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  370
+160
+val_loss:  1.6794728994369508  | spear corr:  0.10819479385896935
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  371
+160
+val_loss:  1.6818317830562592  | spear corr:  -0.03110797181944171
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  372
+160
+val_loss:  1.6889473259449006  | spear corr:  0.13701537143655176
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  373
+160
+val_loss:  1.759497880935669  | spear corr:  0.2151898873126021
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  374
+160
+val_loss:  1.6709644973278046  | spear corr:  0.10811612551940261
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  375
+160
+val_loss:  1.6659259617328643  | spear corr:  0.06420427775192679
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  376
+160
+val_loss:  1.7074291825294494  | spear corr:  -0.08717308451991795
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  377
+160
+val_loss:  1.6642148435115813  | spear corr:  0.20350601440450702
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  378
+160
+val_loss:  1.6786110877990723  | spear corr:  0.04350153614056561
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  379
+160
+val_loss:  1.7161536514759064  | spear corr:  0.21781389018989053
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  380
+160
+val_loss:  1.6613579154014588  | spear corr:  0.062322564359947735
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  381
+160
+val_loss:  1.6607512891292573  | spear corr:  0.16176469973893687
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  382
+160
+val_loss:  1.6656860649585723  | spear corr:  0.16044246230664644
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  383
+160
+val_loss:  1.6608179330825805  | spear corr:  0.14586620724951926
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  384
+160
+val_loss:  1.6678558528423308  | spear corr:  0.2656043316172569
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  385
+160
+val_loss:  1.6767740428447724  | spear corr:  0.05518821435924431
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  386
+160
+val_loss:  1.6714605331420898  | spear corr:  0.11324314777353936
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  387
+160
+val_loss:  1.6612319827079773  | spear corr:  0.2608721384418273
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  388
+160
+val_loss:  1.739807802438736  | spear corr:  0.12028927588838959
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  389
+160
+val_loss:  1.6640503466129304  | spear corr:  0.2835134168802077
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  390
+160
+val_loss:  1.6883953511714935  | spear corr:  0.17522938675213587
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  391
+160
+val_loss:  1.7505269348621368  | spear corr:  0.21985723874881363
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  392
+160
+val_loss:  1.726770919561386  | spear corr:  0.19209379973433952
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  393
+160
+val_loss:  1.6914681255817414  | spear corr:  0.08945227437258264
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  394
+160
+val_loss:  1.6628675699234008  | spear corr:  0.0163405153418798
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  395
+160
+val_loss:  1.6959701776504517  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  396
+160
+val_loss:  1.6607773184776307  | spear corr:  0.09166171638536094
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  397
+160
+val_loss:  1.661499547958374  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  398
+160
+val_loss:  1.701088309288025  | spear corr:  0.011782335172958675
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  399
+160
+val_loss:  1.6668193817138672  | spear corr:  0.23851213435090923
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  400
+160
+val_loss:  1.660773938894272  | spear corr:  0.07051357944988725
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  401
+160
+val_loss:  1.6793842911720276  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  402
+160
+val_loss:  1.6644259929656982  | spear corr:  0.2465088254076184
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  403
+160
+val_loss:  1.7017658054828644  | spear corr:  0.15498631431806675
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  404
+160
+val_loss:  1.7549344837665557  | spear corr:  0.26728759124920554
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  405
+160
+val_loss:  1.678652173280716  | spear corr:  0.008802894094739241
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  406
+160
+val_loss:  1.6609394073486328  | spear corr:  0.29108317889482427
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  407
+160
+val_loss:  1.66784725189209  | spear corr:  0.03478295179224364
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  408
+160
+val_loss:  1.6794317245483399  | spear corr:  0.07694174827394759
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  409
+160
+val_loss:  1.6733040273189546  | spear corr:  0.141332876023866
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  410
+160
+val_loss:  1.6778152227401733  | spear corr:  -0.025965448756583062
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  411
+160
+val_loss:  1.681705904006958  | spear corr:  0.125649198646581
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  412
+160
+val_loss:  1.7038108587265015  | spear corr:  0.20652295851759853
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  413
+160
+val_loss:  1.6724123179912567  | spear corr:  -0.01895053407852501
+min validation loss:  1.660749626159668  | max spear corr:  0.32070673550422046
+checkpoint_pe
+0.0001
+=========================
+epoch  414
+160
+val_loss:  1.675915789604187  | spear corr:  0.34042692038453437
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  415
+160
+val_loss:  1.6695535600185394  | spear corr:  0.1561427846168687
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  416
+160
+val_loss:  1.6792560756206512  | spear corr:  0.26748564536032776
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  417
+160
+val_loss:  1.7136212944984437  | spear corr:  0.13962516525146457
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  418
+160
+val_loss:  1.6612653732299805  | spear corr:  0.04998750486418854
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  419
+160
+val_loss:  1.6655999064445495  | spear corr:  0.11528428800362366
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  420
+160
+val_loss:  1.6871968388557435  | spear corr:  0.1790937887696063
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  421
+160
+val_loss:  1.6711476743221283  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  422
+160
+val_loss:  1.692042475938797  | spear corr:  0.26965987676403075
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  423
+160
+val_loss:  1.6650215566158295  | spear corr:  0.01097692268677576
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  424
+160
+val_loss:  1.6722275912761688  | spear corr:  0.21220012892894777
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  425
+160
+val_loss:  1.6700416445732116  | spear corr:  0.24704797441882337
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  426
+160
+val_loss:  1.6772514224052428  | spear corr:  0.11226482966171203
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  427
+160
+val_loss:  1.662667942047119  | spear corr:  0.1973672304790599
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  428
+160
+val_loss:  1.680237102508545  | spear corr:  0.04838820557463176
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  429
+160
+val_loss:  1.6968597650527955  | spear corr:  0.10344479055809022
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  430
+160
+val_loss:  1.7103012084960938  | spear corr:  0.1827616416364572
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  431
+160
+val_loss:  1.6907918632030488  | spear corr:  0.13399462685044294
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  432
+160
+val_loss:  1.6772934734821319  | spear corr:  0.08957496355098514
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  433
+160
+val_loss:  1.7301443576812745  | spear corr:  0.19315197951286986
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  434
+160
+val_loss:  1.6626830875873566  | spear corr:  0.2564803281193207
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  435
+160
+val_loss:  1.705553662776947  | spear corr:  0.14088854335601117
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  436
+160
+val_loss:  1.707873946428299  | spear corr:  0.14129961311136457
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  437
+160
+val_loss:  1.6607590556144713  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  438
+160
+val_loss:  1.6731161713600158  | spear corr:  0.19587073416575512
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  439
+160
+val_loss:  1.7714006841182708  | spear corr:  0.1209123563420103
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  440
+160
+val_loss:  1.7328794240951537  | spear corr:  0.2128028803659228
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  441
+160
+val_loss:  1.7562032520771027  | spear corr:  0.08185472877317565
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  442
+160
+val_loss:  1.6624912321567535  | spear corr:  0.1012044541596911
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  443
+160
+val_loss:  1.6902547240257264  | spear corr:  0.20890206327836447
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  444
+160
+val_loss:  1.665905874967575  | spear corr:  0.10912348879733363
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  445
+160
+val_loss:  1.6956433057785034  | spear corr:  0.20430332927440906
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  446
+160
+val_loss:  1.6934784770011901  | spear corr:  0.1705858986829783
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  447
+160
+val_loss:  1.6695299446582794  | spear corr:  0.06459592962103473
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  448
+160
+val_loss:  1.6938130855560303  | spear corr:  nan
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  449
+160
+val_loss:  1.7175921499729156  | spear corr:  0.1875994284068716
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  450
+160
+val_loss:  1.6642202019691468  | spear corr:  0.18075676663756535
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  451
+160
+val_loss:  1.6761144161224366  | spear corr:  -0.08924021283826622
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  452
+160
+val_loss:  1.6696915090084077  | spear corr:  0.19229455045882238
+min validation loss:  1.660749626159668  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  453
+160
+val_loss:  1.660749226808548  | spear corr:  0.1534680661696753
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  454
+160
+val_loss:  1.7075263738632203  | spear corr:  0.13264434173831552
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  455
+160
+val_loss:  1.6614346504211426  | spear corr:  0.005815866221861214
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  456
+160
+val_loss:  1.6668911814689635  | spear corr:  0.2481732845426548
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  457
+160
+val_loss:  1.6864529967308044  | spear corr:  0.2608721384418273
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  458
+160
+val_loss:  1.6804589629173279  | spear corr:  0.04452857140465345
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  459
+160
+val_loss:  1.6624643564224244  | spear corr:  nan
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  460
+160
+val_loss:  1.6841388881206512  | spear corr:  0.025961990992988845
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  461
+160
+val_loss:  1.6608214020729064  | spear corr:  0.18967895717852354
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  462
+160
+val_loss:  1.6722804963588715  | spear corr:  0.2253768584706634
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  463
+160
+val_loss:  1.694068682193756  | spear corr:  0.1452417539121069
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  464
+160
+val_loss:  1.7366097509860992  | spear corr:  0.22793063703858474
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  465
+160
+val_loss:  1.666851431131363  | spear corr:  0.04692618981056312
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  466
+160
+val_loss:  1.6793114483356475  | spear corr:  0.2108106219271413
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  467
+160
+val_loss:  1.6700068771839143  | spear corr:  0.27654493926318735
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  468
+160
+val_loss:  1.6614604413509368  | spear corr:  0.029714776668131545
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  469
+160
+val_loss:  1.6787656605243684  | spear corr:  0.18149100922397454
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  470
+160
+val_loss:  1.6633133292198181  | spear corr:  0.029714776668131545
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  471
+160
+val_loss:  1.6621742069721221  | spear corr:  0.19819945539089157
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  472
+160
+val_loss:  1.7083371102809906  | spear corr:  0.04493935535128555
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  473
+160
+val_loss:  1.6972058236598968  | spear corr:  -0.059628712269255486
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  474
+160
+val_loss:  1.660849940776825  | spear corr:  0.17517323815292812
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  475
+160
+val_loss:  1.6721396446228027  | spear corr:  0.2269424532679779
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  476
+160
+val_loss:  1.662356323003769  | spear corr:  0.16173972870906597
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  477
+160
+val_loss:  1.6628514170646667  | spear corr:  0.050976006713168154
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  478
+160
+val_loss:  1.728853452205658  | spear corr:  0.02124878454602146
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  479
+160
+val_loss:  1.669314831495285  | spear corr:  0.0888415157869068
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  480
+160
+val_loss:  1.680495125055313  | spear corr:  0.2773658134726618
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  481
+160
+val_loss:  1.6801633179187774  | spear corr:  -0.034127657004943794
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  482
+160
+val_loss:  1.685521626472473  | spear corr:  0.30748728327471836
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  483
+160
+val_loss:  1.6708535194396972  | spear corr:  0.18661975159093475
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  484
+160
+val_loss:  1.6615560829639435  | spear corr:  0.19473405095522017
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  485
+160
+val_loss:  1.6610133349895477  | spear corr:  -0.07569250316720166
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  486
+160
+val_loss:  1.7369262278079987  | spear corr:  0.06589377872642634
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  487
+160
+val_loss:  1.680387759208679  | spear corr:  0.09930380809126992
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  488
+160
+val_loss:  1.701613473892212  | spear corr:  -0.0158132449018085
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  489
+160
+val_loss:  1.682325440645218  | spear corr:  0.09636533117266914
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  490
+160
+val_loss:  1.680247575044632  | spear corr:  -0.013265373854967509
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  491
+160
+val_loss:  1.6700174987316132  | spear corr:  0.2518603270354969
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  492
+160
+val_loss:  1.6792678236961365  | spear corr:  0.2927893780867996
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  493
+160
+val_loss:  1.6618510961532593  | spear corr:  0.007173256221170805
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  494
+160
+val_loss:  1.67274751663208  | spear corr:  0.07349010577184314
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  495
+160
+val_loss:  1.6788409352302551  | spear corr:  0.11595913378401014
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  496
+160
+val_loss:  1.696030420064926  | spear corr:  0.13329140130424713
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  497
+160
+val_loss:  1.6716767132282258  | spear corr:  -0.035248004520982826
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  498
+160
+val_loss:  1.6608278632164002  | spear corr:  0.24553210283230933
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+=========================
+epoch  499
+160
+val_loss:  1.6854674637317657  | spear corr:  -0.12834089595755746
+min validation loss:  1.660749226808548  | max spear corr:  0.34042692038453437
+checkpoint_pe
+0.0001
+(.venv) root@autodl-container-98a74c9ae6-a366df50:~/Projects/Audio-Visual-Figure-Skating-main# 
