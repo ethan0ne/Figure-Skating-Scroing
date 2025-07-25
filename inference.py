@@ -7,9 +7,6 @@ from torch.utils.data import DataLoader
 def extract_features_from_video(video_path, device):
     """
     TODO: implement feature extraction for arbitrary video.
-    Should load the video file, extract audio and visual features in the same format
-    as FeatureDataset.__getitem__, and return:
-        audio_feat, video_feat, inv_audio_feat, inv_video_feat, audio_len, video_len
     """
     raise NotImplementedError("Feature extraction not implemented")
 

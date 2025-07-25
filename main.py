@@ -98,12 +98,15 @@ if __name__ == "__main__":
     epochs = 500
 
     # select hyperparameters for current score
-    learning_rates = [5e-5, 2e-5, 2e-5, 5e-5, 1e-4, 2e-5, 5e-5]
-    weight_decays = [1e-5, 5e-6, 1e-5, 1e-6, 5e-6, 1e-5, 1e-6]
-    spearman_weights = [1.0, 0.7, 0.5, 0.3, 0.1, 0.5, 0.1]
+    # learning_rates = [5e-5, 2e-5, 2e-5, 5e-5, 1e-4, 2e-5, 5e-5]
+    # weight_decays = [1e-5, 5e-6, 1e-5, 1e-6, 5e-6, 1e-5, 1e-6]
+    # spearman_weights = [1.0, 0.7, 0.5, 0.3, 0.1, 0.5, 0.1]
+    learning_rates = [5e-5, 5e-5, 5e-5, 5e-5, 5e-5, 5e-5, 5e-5]
+    weight_decays = [1e-5, 1e-5, 1e-5, 1e-5, 1e-5, 1e-5, 1e-5]
+    spearman_weights = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
 
-    noise_std = 0.5
-    score_index = 6
+    noise_std = 0.1
+    score_index = 0
     no_improvements_tolerance = 60
 
     # build datasets and dataloaders
