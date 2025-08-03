@@ -1,5 +1,3 @@
-
-
 import numpy as np
 import argparse
 
@@ -9,7 +7,7 @@ def main():
     args = parser.parse_args()
 
     feature = np.load(args.npy)
-    print(f"✅ Loaded: {args.npy}")
+    print(f"Loaded: {args.npy}")
     print(f"Shape: {feature.shape}")
     print(f"Dtype: {feature.dtype}")
     print(f"First 5 rows:\n{feature[:5]}")

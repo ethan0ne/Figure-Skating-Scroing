@@ -102,9 +102,8 @@ if __name__ == "__main__":
     weight_decays = [1e-5, 1e-5, 1e-5, 1e-5, 1e-5, 1e-5, 1e-5]
     spearman_weights = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
     #noise_stds = [0, 0.01, 0.05, 0.1, 0.2, 0.5]
-    # noise_stds = [0, 0.01, 0.05, 0.1, 0.2, 0.5]
-    noise_stds = [0]
-    score_index_limit = 2
+    noise_stds = [0, 0.01, 0.05, 0.1, 0.2, 0.5]
+    score_index_limit = 7
     result = []
 
     no_improvements_tolerance = 60
@@ -112,7 +111,7 @@ if __name__ == "__main__":
     # build datasets and dataloaders
     train_dataloader, val_dataloader = get_dataloaders(FS1000_dataset_dir)
 
-    for score_index in range(1, score_index_limit):
+    for score_index in range(0, score_index_limit):
         for noise_std in noise_stds:
             # model
             model = scoring_head(depth=2, input_dim=768, dim=512, input_len=16, num_scores=1, bidirection=True,
