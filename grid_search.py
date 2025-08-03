@@ -4,7 +4,7 @@ import torch.utils.data as data
 import os
 import numpy as np
 from model import scoring_head
-from dataset.dataset_fs800 import FeatureDataset, av_collate_fn
+from dataset.dataset_fs1000 import FeatureDataset, av_collate_fn
 from scipy.stats import spearmanr
 import math
 import random
@@ -12,7 +12,6 @@ import torch.nn.functional as F
 import itertools
 import logging
 
-# 配置日志输出到文件
 logging.basicConfig(
     filename='grid_search.log',
     filemode='a',
@@ -90,7 +89,7 @@ if __name__ == "__main__":
     best_spear = float('-inf')
     epochs = 500
     score_index = 4
-    patience = 30  # 早停：连续多少个 epoch 无提升则跳过本组合
+    patience = 30
 
     FS1000_dataset_dir = '/Volumes/Data (Samsung PSSD T7 - 2 TB of Ethan)/Study/KCL/MSc Individual Project/References/FS1000 Dataset/'
 
@@ -174,7 +173,6 @@ if __name__ == "__main__":
                 )
                 break
 
-        # 记录本组最优并与全局比较
         logging.info(f'Finished lr={lr}, wd={wd} => Best Spearman: {combo_best_spear:.4f}')
         if combo_best_spear > best_spear:
             best_spear = combo_best_spear

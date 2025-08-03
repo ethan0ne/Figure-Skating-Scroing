@@ -7,7 +7,7 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader
 from scipy.stats import spearmanr
 from model import scoring_head
-from dataset.dataset_fs800 import FeatureDataset, av_collate_fn
+from dataset.dataset_fs1000 import FeatureDataset, av_collate_fn
 
 def pearson_loss(pred, target):
     vx = pred - pred.mean()
@@ -153,8 +153,8 @@ if __name__ == "__main__":
                 print("val_loss: ", val_loss, " | spear corr: ", spear)
                 if val_loss < min_val_loss:
                     min_val_loss = val_loss
-                    os.makedirs("./fs800_result/auto", exist_ok=True)
-                    torch.save(model.state_dict(), f"./fs800_result/auto/checkpoint_pe_score-index-{score_index}_noise-{noise_std}.pth")
+                    os.makedirs("./fs1000_result/auto", exist_ok=True)
+                    torch.save(model.state_dict(), f"./fs1000_result/auto/checkpoint_pe_score-index-{score_index}_noise-{noise_std}.pth")
                 if spear > max_spear_cor:
                     max_spear_cor = spear
                     no_improve_epochs = 0

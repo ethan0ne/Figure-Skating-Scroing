@@ -1,7 +1,7 @@
 import argparse
 import torch
 from model import scoring_head
-from dataset.dataset_fs800 import FeatureDataset, av_collate_fn
+from dataset.dataset_fs1000 import FeatureDataset, av_collate_fn
 from torch.utils.data import DataLoader
 
 def extract_features_from_video(video_path, device):
@@ -26,7 +26,7 @@ def main():
     parser.add_argument(
         '--checkpoint',
         type=str,
-        default='./fs800_result/checkpoint_pe.pth',
+        default='./fs1000_result/checkpoint_pe.pth',
         help='Path to the model checkpoint'
     )
     parser.add_argument(
