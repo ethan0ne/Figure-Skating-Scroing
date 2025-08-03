@@ -4,7 +4,7 @@ import torch.utils.data as data
 import os
 import numpy as np
 from model import scoring_head, head
-from dataset.dataset_fs800 import FeatureDataset, av_collate_fn
+from dataset.dataset_fs1000 import FeatureDataset, av_collate_fn
 from scipy.stats import spearmanr 
 import math
 # from torch.optim import lr_sheduler
@@ -100,7 +100,7 @@ for epoch_idx in range(epochs):
     if val_loss < min_val_loss:
         min_val_loss = val_loss
         
-        torch.save(model.state_dict(), "./fs800_result/checkpoint_pe.pth")
+        torch.save(model.state_dict(), "./fs1000_result/checkpoint_pe.pth")
     if spear > max_spear_cor:
         max_spear_cor = spear
     print("min validation loss: ", min_val_loss, " | max spear corr: ", max_spear_cor)
